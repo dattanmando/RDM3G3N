@@ -3,15 +3,15 @@
 ## Description 
 RDM3GEN is a professional coding project README.md generator. It runs via node.js in an integrated terminal.
 ## Installation
-Clone this repository to your machineInstall node.jsRun "node index.js" in your integrated terminal (GitBash preferred) while in the Develop folder.Input the requested valuesYour README.md will be generated in the local folder.
+Clonee this repository to your machine.  Run "node index.js" in your integrated terminal (GitBash preferred) while in the Develop folder.  Input the requested values.  Your README.md will be generated in the local folder.
 ## Usage
 RDM3G3N is best utilized when looking for a quick and efficient way to create a README.md file for a coding project.
 ## License
 MIT
 https://opensource.org/licenses/MIT
 ## Contributing
-Tanner Chamberlain @dattanmando on GitHub
+Tanner Chamberlain
 ## Tests
-I do not.
+I ran a few tests myself. Will have some from my cohort test also.
 ## Questions
-tannerchamberlain8@gmail.com or https://github.com/dattanmando
+tannerchamberlain8@gmail.com https://github.com/dattanmando https://github.com/dattanmando/RDM3G3N/tree/main
